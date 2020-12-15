@@ -13,9 +13,14 @@
 
 ### Day 2: December 15, 2020 
 
+**Today's Progress**: Got excited and completed the second/third lessons (Basic CSS and Applied Visual Design). Learned some basic CSS commands and how to use @keyframes. 
+
+**Thoughts**: So far it's going pretty well. I'm still a little confused about cubic-bezier functions, but I get the general idea. Excited for Day 3!
+
+### Day 3: December 16, 2020 
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**: 
-
