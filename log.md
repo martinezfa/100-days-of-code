@@ -19,8 +19,14 @@
 
 ### Day 3: December 16, 2020 
 
+**Today's Progress**: Completed lessons 4, 5, and 6 (Applied Accessibility, Responsive Web Design Principles, and CSS Flexbox). Hoping to finish with the certification by this weekend!
+
+**Thoughts**: It was really cool to learn more about how to make a webpage more accessible. Since I'm pretty new to HTML/CSS I did not know anything about the different accessibility options. An issue I've had in the past when trying to build my portfolio is trying to make it responsive, so this was a good introduction to that. 
+
+### Day 4: December 17, 2020 
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**:
