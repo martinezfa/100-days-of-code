@@ -33,8 +33,8 @@
 
 ### Day 5: December 18, 2020 
 
-**Today's Progress**: Finished the remaining lesson (CSS grid) and am now working through the first project, designing a Tribute Page. I created the basic skeleton for what I want it the page to say/look like. I added extra colors right now so that I can better visualize the way my containers are working together. 
+**Today's Progress**: 
 
-**Thoughts**: I'm having a lot of trouble in my tribute page making everything line up the way I want it to.
+**Thoughts**: 
 
-**Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work; see html and css files. 
+**Link(s) to work**: 
