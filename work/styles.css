@@ -1,39 +1,41 @@
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 
+body{
+    font-size: 1.6rem;
+    font-family: Poppins;
+    line-height: 1.3;
+    text-align: center;
+    background-color: rgba(228, 224, 224, 0.89);
+}
+
 #main{
     margin: 30px 5px; 
+    padding-bottom: 10px;
+}
+p, figcaption, blockquote, li{
+    font-size: 1.2rem;
 }
 
 .myHeader{
-    background-color: gray;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-items: center;
-}
-#title{
-    background-color: white;
-    font-size: 40px;
-}
-h4{
-    background-color: white;
+    padding: 2px;
 }
 #img-div{
-    background-color: black;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-items: center;
+    background: white;
+    padding-bottom: 10px;
 }
-#img{
-    background-color: yellow;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    width: 40%;
-}
-#img-caption{
-    background-color: coral;
+#image{
+    height: auto;
+    max-width: 100%;
 }
 
+ul{
+    margin: 0 auto 50px auto;
+    text-align: left;
+    max-width: 600px;
+}
+blockquote{
+    margin: 0 auto 50px auto;
+    text-align: left;
+    max-width: 600px;
+}
