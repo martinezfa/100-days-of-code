@@ -33,6 +33,14 @@
 
 ### Day 5: December 18, 2020 
 
+**Today's Progress**: Finished the Tribute Page challenge (four challenges left). I learned how useful margins can be when trying to center something, that was a piece I was missing yesterday when trying to get the positions right. I think I got it to be pretty close to what they had. 
+
+**Thoughts**: Still not super comfortable, but hopefully I'll get better over the next few challenges. 
+
+**Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work/TributePage; see html and css files
+
+### Day 5: December 19, 2020 
+
 **Today's Progress**: 
 
 **Thoughts**: 
