@@ -39,7 +39,15 @@
 
 **Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work/TributePage; see html and css files
 
-### Day 5: December 19, 2020 
+### Day 6: December 19, 2020 
+
+**Today's Progress**: Finished the Survey Page challenge (three challenges left). Still had some difficulty being able to position my items in the center. Figured out that if I create a min size for the container that I'm using it will be easier to center. Also reviewed how to use radio buttons as well as checkboxes. Learned how to add drop-down select options. 
+
+**Thoughts**: Not entirely comfortable with the positioning and everything, but I am getting better at it. Looking forward to tomorrow!
+
+**Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work/SurveyForm; see html and css files
+
+### Day 7: December 20, 2020 
 
 **Today's Progress**: 
 
