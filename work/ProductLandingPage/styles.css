@@ -1,0 +1,153 @@
+* {
+    box-sizing: border-box;
+    line-height: 1.5rem;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(238, 231, 231);
+}
+
+#header{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    background-color: rgb(238, 231, 231);
+}
+#header-img-container{
+    padding: 5px 50px;
+}
+
+#product-name{
+    align-self: center;
+}
+
+nav{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.nav-link{
+    margin: 0 100px;
+    color: black;
+    text-decoration: none;
+    align-self: center;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding-top: 20px;
+}
+form{
+    max-width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    align-self: center;
+    justify-content: center;
+}
+.form-control{
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.form-control input{
+    width: 75%;
+}
+
+button, #submit{
+    background-color: gold;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 1px goldenrod;
+    border: 0px solid;
+}
+
+section {
+    padding: 30px 0px;
+}
+
+#features{
+    padding-top: 20px;
+}
+
+section .features-info{
+    margin: 30px 30px;
+    display: inline-block;
+}
+section h3, p {
+    margin: 0px;
+}
+
+section .how-it-works-info{
+    width:70%;
+    margin: 0 auto;
+}
+
+#Pricing{
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+}
+section .pricing-info{
+    width: 30%;
+    border: black solid;
+}
+
+section .instrument{
+    background-color: lightgray;
+    padding: 10px 0px;
+}
+
+section .pricing-description{
+    display: block;
+}
+
+#product-selection-button{
+    background-color: gold;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: none;
+}
+
+#Pricing {
+    display: flex;
+    justify-content: space-around;
+}
+
+#button-product{
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    padding: 10px;
+}
+
+footer{
+    background-color: lightgray;
+    padding: 30px;
+    max-width: 800px;
+    margin: 0 auto;
+    display: block;
+    text-align: right;
+}
+#footer-links a{
+    text-decoration: none;
+    color: black;
+    margin: 0 10px;
+}
+
+@media (max-width: 500px){
+    #Pricing {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+
+
