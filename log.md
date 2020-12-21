@@ -49,6 +49,14 @@
 
 ### Day 7: December 20, 2020 
 
+**Today's Progress**: Finished the Product Landing Page challenge (two challenges left). Initially had difficulty remembering how to do the navigation bar, but eventually figured it out. Was happy with my ability to use flex in CSS. One thing that I did not do was add the images for the company logo and the little icons next to the product features. The page is not responsive so that's something to work on in the future. 
+
+**Thoughts**: Need to do better with making things responsive. Looking forward to the next challenge tomorrow!
+
+**Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work/ProductLandingPage
+
+### Day 8: December 21, 2020 
+
 **Today's Progress**: 
 
 **Thoughts**: 
