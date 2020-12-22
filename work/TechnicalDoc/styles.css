@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    line-height: 1.5rem;
+}
+h2{
+    font-size: 1.8rem;
+}
+
+nav{
+    width: 15%;
+    height: 100vh;
+    border-right: 3px solid grey;
+    position: fixed;
+}
+.nav-item-box{
+    border-bottom: 1px solid black;
+    padding: 15px 30px;
+}
+#nav-item-box-14{
+    border-bottom: none;
+}
+a, p, li{
+    text-decoration: none;
+    color: rgb(100, 99, 99);
+    font-size: 1.1rem;
+}
+main{
+    margin-left: 15%;
+}
+section{
+    padding: 30px 30px 0px 30px;
+}
+
+#section-information{
+    padding-top: 20px;
+    padding-left: 20px;
+}
