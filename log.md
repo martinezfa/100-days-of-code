@@ -57,6 +57,14 @@
 
 ### Day 8: December 21, 2020 
 
+**Today's Progress**: Worked on the fourth challenge, the technical documentation page. Haven't had much time today so was only able to put in exactly one hour, but got a fair amount done. I am up to the variables section, but don't know how to add code chunks in, so that's something to figure out tomorrow.
+
+**Thoughts**: Starting to get the hang of things, I think!
+
+**Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work/TechnicalDoc
+
+### Day 9: December 22, 2020 
+
 **Today's Progress**: 
 
 **Thoughts**: 
