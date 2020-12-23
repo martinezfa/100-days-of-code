@@ -53,7 +53,7 @@
 
 **Thoughts**: Need to do better with making things responsive. Looking forward to the next challenge tomorrow!
 
-**Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work/ProductLandingPage
+**Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work/ProductLandingPage; see html and css files
 
 ### Day 8: December 21, 2020 
 
@@ -61,9 +61,17 @@
 
 **Thoughts**: Starting to get the hang of things, I think!
 
-**Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work/TechnicalDoc
+**Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work/TechnicalDoc; see html and css files
 
 ### Day 9: December 22, 2020 
+
+**Today's Progress**: Completed the fourth challenge. Figured out how to add the code chunks in for html
+
+**Thoughts**: Having difficulty with making things responsive. Once I finish the project challenges I might watch some videos to see how other people would have completed the projects. Hopefully that will teach me how to make things more responsive and also show me different solutions. 
+
+**Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work/TechnicalDoc; see html and css files
+
+### Day 10: December 23, 2020 
 
 **Today's Progress**: 
 
