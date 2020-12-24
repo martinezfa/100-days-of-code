@@ -73,8 +73,14 @@
 
 ### Day 10: December 23, 2020 
 
+**Today's Progress**: Worked on the fifth and final challenge, the portfolio page. Have a very basic version of the html and css files.
+
+**Thoughts**: Didn't have much time today, but hopefully tomorrow I can try and make some more progress.
+
+### Day 11: December 24, 2020 
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**:
