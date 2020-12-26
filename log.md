@@ -77,10 +77,10 @@
 
 **Thoughts**: Didn't have much time today, but hopefully tomorrow I can try and make some more progress.
 
-### Day 11: December 24, 2020 
+### Day 11: December 25, 2020 
 
-**Today's Progress**: 
+**Today's Progress**: Took yesterday (Christmas Eve) off, but finished the fifth and final challenge for the responsive web certification today. 
 
-**Thoughts**: 
+**Thoughts**: Could have tried to add a little more to it like hovering and still having some trouble with making things fully mobile responsive, but overall I'm happy with my progress!
 
-**Link(s) to work**:
+**Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work/portfolioChallenge; see html and css files.
