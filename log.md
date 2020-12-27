@@ -84,3 +84,15 @@
 **Thoughts**: Could have tried to add a little more to it like hovering and still having some trouble with making things fully mobile responsive, but overall I'm happy with my progress!
 
 **Link(s) to work**: https://github.com/MartinezAddiego/100-days-of-code/tree/master/work/portfolioChallenge; see html and css files.
+
+### Day 12: December 26, 2020 
+
+**Today's Progress**: Working on my own personal portfolio to later host on GitHub. 
+
+**Thoughts**: Still struggling a little bit with the responsive parts, but I've gotten a lot better at using the containers and divs to my advantage.
+
+### Day 13: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
