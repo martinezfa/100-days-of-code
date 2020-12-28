@@ -91,8 +91,16 @@
 
 **Thoughts**: Still struggling a little bit with the responsive parts, but I've gotten a lot better at using the containers and divs to my advantage.
 
-### Day 13: 
+### Day 13: December 27, 2020
+
+**Today's Progress**: Still working on my personal portfolio. I finished a good computer-based version, but I'm still having difficulty making things responsive. I decided to start over and try the mobile-first approach since (from what I've read) that seems a little more difficult to start with but makes the transition easier.
+
+**Thoughts**: Will keep working on this until I finish, but going to start the Python certifications tomorrow.
+
+### Day 14: 
 
 **Today's Progress**: 
 
 **Thoughts**: 
+
+**Link(s) to work**:
