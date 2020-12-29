@@ -97,7 +97,13 @@
 
 **Thoughts**: Will keep working on this until I finish, but going to start the Python certifications tomorrow.
 
-### Day 14: 
+### Day 14: December 28, 2020
+
+**Today's Progress**: Took a day off from my html/css personal portfolio and started the Scientific Computing with Python certification -- made it through 16/56 lessons. Also went back to practice some MatLab and made it through eight weeks of Coursera's nine week MatLab course. 
+
+**Thoughts**: Will try to finish week nine of MatLab tomorrow and continue with some Python.
+
+### Day 15: 
 
 **Today's Progress**: 
 
