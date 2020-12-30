@@ -103,7 +103,13 @@
 
 **Thoughts**: Will try to finish week nine of MatLab tomorrow and continue with some Python.
 
-### Day 15: 
+### Day 15: December 29, 2020
+
+**Today's Progress**: Finished week nine of the MatLab Coursera course and received my certificate. Did not have the time to work on Python. Re-learned how to access content in a table (whether by curly brackets or parentheses) as well as elements within a cell. 
+
+**Thoughts**: Looking forward to improving my coding skills with the Python course tomorrow. 
+
+### Day 16: December 30, 2020
 
 **Today's Progress**: 
 
