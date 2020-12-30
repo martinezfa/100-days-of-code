@@ -111,6 +111,20 @@
 
 ### Day 16: December 30, 2020
 
+**Today's Progress**: Finished up and through "Dictionaries: Common Applications".
+
+**Thoughts**: Kind of struggling with the idea of python dictionaries and how they work, so I will probably redo some of the lessons tomorrow. 
+
+### Day 17: December 31, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 18: January 1, 2021
+
 **Today's Progress**: 
 
 **Thoughts**: 
