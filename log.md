@@ -117,11 +117,9 @@
 
 ### Day 17: December 31, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Didn't have as much time today because of NYE, but I spent time trying to figure out how to create a hamburger menu for my personal portfolio.
 
-**Thoughts**: 
-
-**Link(s) to work**:
+**Thoughts**: I didn't make as much progress as I wanted to, but I'll be able to get a good amount done tomorrow, I hope! Plan for tomorrow is to do a little more work with the hamburger menu and keep going with the python for everybody lessons. I think I should be able to finish the certification by the end of the weekend.
 
 ### Day 18: January 1, 2021
 
