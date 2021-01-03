@@ -121,10 +121,16 @@
 
 **Thoughts**: I didn't make as much progress as I wanted to, but I'll be able to get a good amount done tomorrow, I hope! Plan for tomorrow is to do a little more work with the hamburger menu and keep going with the python for everybody lessons. I think I should be able to finish the certification by the end of the weekend.
 
-### Day 18: January 1, 2021
+### Day 18: January 2, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Ended up not having time yesterday, but back at it again with Python today. Finished a few more of the lessons and learned about tuples.
 
-**Thoughts**: 
+**Thoughts**: I understand dictionaries a lot better. I also like how convenient some of Python's notation is. 
+
+### Day 19: January 3, 2021
+
+**Today's Progress**:
+
+**Thoughts**:
 
 **Link(s) to work**:
