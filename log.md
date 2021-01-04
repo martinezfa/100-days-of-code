@@ -129,8 +129,15 @@
 
 ### Day 19: January 3, 2021
 
-**Today's Progress**:
+**Today's Progress**: Unfortunately did not reach my goal of finishing the python certificaiton by the end of the weekend, but will keep working through it. Finished up with more basic/general python commands and have started to learn about networking. 
 
-**Thoughts**:
+**Thoughts**: This is completely new to me, and I find it really interesting.
+
+### Day 20: January 4, 2021
+
+**Today's Progress**: 
+
+**Thoughts**: 
 
 **Link(s) to work**:
+
