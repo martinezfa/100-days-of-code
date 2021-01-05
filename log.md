@@ -135,9 +135,14 @@
 
 ### Day 20: January 4, 2021
 
+**Today's Progress**: Finished all of the Python Web Services lessons!
+
+**Thoughts**: I'm a total newbie to JSON/XML and the concepts within Web Services, and while it's cool, it's not really what I'm interested in at the moment. That being said, XML reminded me a lot of HTML's structure with parent and children tags. 
+
+### Day 21: January 5, 2021
+
 **Today's Progress**: 
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s) to work**:
-
