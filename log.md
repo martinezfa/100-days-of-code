@@ -141,6 +141,12 @@
 
 ### Day 21: January 5, 2021
 
+**Today's Progress**: Finished up an introduction to objects in Python that was a good refresher of what I learned in my first C++ class. Also started to learn a bit about SQL and databases.
+
+**Thoughts**: I enjoyed reviewing objects! SQL is very new to me and it's pretty different from what I've worked with in the past, but fun to learn about.
+
+### Day 22: January 6, 2021
+
 **Today's Progress**: 
 
 **Thoughts**:
