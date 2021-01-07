@@ -153,6 +153,12 @@
 
 ### Day 23: January 7, 2021
 
+**Today's Progress**: Started the first project today and began to try and approach the problem from different way. 
+
+**Thoughts**: Having a little bit of difficulty tying everything together, but will keep trying tomorrow!
+
+### Day 24: January 8, 2021
+
 **Today's Progress**: 
 
 **Thoughts**:
