@@ -147,6 +147,12 @@
 
 ### Day 22: January 6, 2021
 
+**Today's Progress**: Finished up all the python lessons today, next up are the scientific computing projects.
+
+**Thoughts**: I really enjoyed learning about foreign keys and how they work in databases to produce efficient tables. Seemed really cool!
+
+### Day 23: January 7, 2021
+
 **Today's Progress**: 
 
 **Thoughts**:
