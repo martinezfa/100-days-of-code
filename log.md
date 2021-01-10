@@ -157,7 +157,13 @@
 
 **Thoughts**: Having a little bit of difficulty tying everything together, but will keep trying tomorrow!
 
-### Day 24: January 8, 2021
+### Day 24: January 9, 2021
+
+**Today's Progress**: Made some more progress with the first project and have a better of an idea of where to go from here. 
+
+**Thoughts**: Still having some difficulty/do not have a lot of time right now, but will keep at it!
+
+### Day 25: January 10, 2021
 
 **Today's Progress**: 
 
