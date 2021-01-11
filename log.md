@@ -165,8 +165,30 @@
 
 ### Day 25: January 10, 2021
 
+**Today's Progress**: Spent the day working on MatLab coding projects. Will pick back up with Python tomorrow!
+
+**Thoughts**: A little bummed I haven't had as much time to finish up with Python, but looking to complete the projects this week!
+
+### Day 26: January 11, 2021
+
 **Today's Progress**: 
 
-**Thoughts**:
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 27: January 12, 2021
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 28: January 13, 2021
+
+**Today's Progress**: 
+
+**Thoughts**: 
 
 **Link(s) to work**:
