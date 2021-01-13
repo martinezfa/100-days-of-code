@@ -169,7 +169,13 @@
 
 **Thoughts**: A little bummed I haven't had as much time to finish up with Python, but looking to complete the projects this week!
 
-### Day 26: January 11, 2021
+### Day 26: January 12, 2021
+
+**Today's Progress**: Having problems with the whitespaces and formatting for the arithmetic arranger challenge, so I'm a little stuck right now. Might try to approach it a little differently tomorrow.
+
+**Thoughts**: Haven't had much time in the past week (and missed a couple of days...), but should be able to get back into a good groove starting tomorrow!
+
+### Day 27: January 13, 2021
 
 **Today's Progress**: 
 
@@ -177,15 +183,7 @@
 
 **Link(s) to work**:
 
-### Day 27: January 12, 2021
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**:
-
-### Day 28: January 13, 2021
+### Day 28: January 14, 2021
 
 **Today's Progress**: 
 
