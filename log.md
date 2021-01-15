@@ -173,9 +173,15 @@
 
 **Today's Progress**: Having problems with the whitespaces and formatting for the arithmetic arranger challenge, so I'm a little stuck right now. Might try to approach it a little differently tomorrow.
 
-**Thoughts**: Haven't had much time in the past week (and missed a couple of days...), but should be able to get back into a good groove starting tomorrow!
+**Thoughts**: Haven't had much time in the past week (and missed a couple of days...), but should be able to get back into a good groove soon!
 
-### Day 27: January 13, 2021
+### Day 27: January 14, 2021
+
+**Today's Progress**: I am stil having issues with the whitespaces and making sure that everything lines up properly, so I didn't make much progress today.
+
+**Thoughts**: Not sure what I'm doing wrong and do not have a lot of time lately. I might rewatch some of the python videos. 
+
+### Day 28: January 15, 2021
 
 **Today's Progress**: 
 
@@ -183,7 +189,7 @@
 
 **Link(s) to work**:
 
-### Day 28: January 14, 2021
+### Day 29: January 16, 2021
 
 **Today's Progress**: 
 
