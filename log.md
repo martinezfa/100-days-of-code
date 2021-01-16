@@ -183,11 +183,7 @@
 
 ### Day 28: January 15, 2021
 
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**:
+**Today's Progress**: Starting over with the first project. Wrote pseudocode today. 
 
 ### Day 29: January 16, 2021
 
